@@ -1,0 +1,5 @@
+print ('mardones'.upper())
+print (56+7)
+print ('Vinicius bruxa do siqueira'.upper())
+print  ('Vinícius bruxa do siqueira'.upper())
+print  ("Hello World!")
